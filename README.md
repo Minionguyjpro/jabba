@@ -47,7 +47,7 @@ Make sure to source `jabba.sh` in your environment if you skip it:
 [ -s "$JABBA_HOME/jabba.sh" ] && source "$JABBA_HOME/jabba.sh"
 ```
 
-> In [fish](https://fishshell.com/) command looks a little bit different - 
+> In [fish](https://fishsshell.com/) command looks a little bit different - 
 `curl -sL https://github.com/shyiko/jabba/raw/master/install.sh | bash; and . ~/.jabba/jabba.fish` 
 
 > If you don't have `curl` installed - replace `curl -sL` with `wget -qO-`.
